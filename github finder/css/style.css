@@ -1,0 +1,25 @@
+.panel-heading{
+	border:1px solid black;
+	height:35px;
+	border-radius: 2px;
+}
+.panel-title{
+	padding-top: 5px;
+	padding-left: 5px;
+	font-size: 15px;
+
+}
+
+.panel{
+	border:1px solid #f7fcfb;
+	padding-top:2\5px;
+	background: white;
+}
+
+.panel-body{
+	margin:15px;
+}
+
+.avatar{
+	width: 100%;
+}
